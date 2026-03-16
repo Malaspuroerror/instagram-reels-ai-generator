@@ -53,6 +53,7 @@ To get started with the **instagram-reels-ai-generator**, follow the steps below
 ## 📋 Tips for Best Results
 
 - Use high-quality images and videos for better output.
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
 - Experiment with different styles to find what suits your brand.
 - Keep your content engaging by using trending themes or formats.
 
